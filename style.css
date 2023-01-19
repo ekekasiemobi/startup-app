@@ -1,0 +1,51 @@
+body{
+    font-family:Bahnschrift;
+    background-image: url('../images/SHIFT\ Blog\ NEW\ graphics\ \(51\).png');
+    background-position: center;
+    background-size:initial;
+    background-blend-mode:darken;
+}
+.Hero{
+    background-color: green;
+    width:110%;
+    height: 40px;
+    margin-top: -17px;
+    padding-top: 27px;
+    margin-left: -10px;  
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+p{
+    color: white;
+}
+
+.footer{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 70px;
+    color: white;
+}
+
+.down{
+    text-align: center;
+}
+
+p{
+    margin-left: 50px;
+}
+
+.up1{
+    margin-right: 100px; 
+    padding: 9px 16px 9px 16px; 
+    margin: 3px; 
+    background-color:white; 
+    border: none; 
+    border-radius: 3px;
+    color: green; 
+    font-size: 12px;
+}
